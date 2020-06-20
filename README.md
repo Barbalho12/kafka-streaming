@@ -20,7 +20,7 @@ pip3 install -r requirements.txt
 ## Running
 
 
-**Terminal 1** Inicialize `Zookeeper` and `Kafka` on Docker
+**Terminal 1** Execute `Zookeeper` and `Kafka` on Docker
 ```bash
 docker-compose up
 ```
